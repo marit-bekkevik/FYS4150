@@ -1,1 +1,2 @@
-# FYS4150
+#Computational Physics 
+This repository contains work of Lasse Steinnes and Marit Gjone Bekkevik on projects in the course Computational Physics, course code FYS4150 at University of Oslo. It contains 5 projects, and therefore 5 directories. 
